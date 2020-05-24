@@ -2,6 +2,4 @@
 
 This is a really awesome website.
 
-_Now editing on __update-readme__ branch._
-
-_Updated locally._
+Updates are made on __master__ on Github before rebase
