@@ -1,6 +1,6 @@
 # My Website
 
-This is a really awesome website.
+This is a really awesome website and I am working on it.
 
 Updates are made on __master__ on Github before rebase
 
